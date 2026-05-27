@@ -822,18 +822,6 @@
       "video-downloaders"
     ],
     "content": "",
-    "description": "Detect media on web pages and save supported video or audio files from your browser.",
-    "name": "Video DownloadHelper",
-    "slug": "video-downloadhelper",
-    "url": "/products/video-downloadhelper",
-    "website": "https://www.downloadhelper.net"
-  },
-  {
-    "category": "video-downloaders",
-    "categories": [
-      "video-downloaders"
-    ],
-    "content": "",
     "description": "Download Vimeo videos even when the uploader disabled downloads — password-protected, embedded, or private. Pick your quality and save the MP4.",
     "name": "Vimeo Video Downloader",
     "slug": "vimeo-video-downloader",
